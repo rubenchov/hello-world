@@ -1,3 +1,3 @@
 # hello-world
 First repository
-Author: Ruben
+Author: Ruben, full-time professor.
